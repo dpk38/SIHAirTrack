@@ -1,2 +1,2 @@
-# SIHAirTrack
-Smart India Hackathon 2017 - Indoor navigation system for airports
+# projectbucket
+Projects that I've worked on during the past 3 years.
